@@ -29,7 +29,7 @@
                 <link rel="stylesheet" type="text/css" href="css/ventanas.css">
 <!-----------------------------/BOOTSTRAP----------------------------->
     </head>
-    <body style="background-color: #c9e2b3">
+    <body style="background-color: #ce8483">
         <!-- HEADER -------------------------------------------------------------------->
                 <header>
                         <!-- MAIN HEADER -->
@@ -43,7 +43,7 @@
                                                 <div class="col-md-9">
                                                         <div class="header-logo">
                                                                 <a href="#" class="logo">
-                                                                        <img src="./img/logoTUVCH.png" alt="">
+                                                                        <img src="./img/logo_tenis.png" alt="">
                                                                 </a>
                                                         </div>
                                                 </div>

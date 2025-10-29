@@ -29,7 +29,7 @@
                 <link rel="stylesheet" type="text/css" href="css/ventanas.css">
 <!-----------------------------/BOOTSTRAP----------------------------->
     </head>
-    <body>
+    <body style="background-color: #c9e2b3">
         <!-- HEADER -------------------------------------------------------------------->
                 <header>
                         <!-- MAIN HEADER -->
